@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  🚀 Full Stack Developer &nbsp;|&nbsp; 📍 Lima, Perú &nbsp;|&nbsp; 💡 20 years old, building real stuff
+  🚀 Full Stack Developer &nbsp;|&nbsp; 📍 Lima, Perú &nbsp;|&nbsp; 💡 22 years old, building real stuff
 </p>
 
 ---
