@@ -1,11 +1,17 @@
 <h1 align="center">Hey, I'm Jose Joaquin 👋</h1>
 
-<h3 align="center">
-  <em>"I don't just write code — I engineer solutions that actually work."</em>
-</h3>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+C%23+%7C+JavaScript;Building+real+solutions%2C+not+just+code;Open+to+work+%F0%9F%92%BC" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  🚀 Full Stack Developer &nbsp;|&nbsp; 📍 Lima, Perú &nbsp;|&nbsp; 💡 22 years old, building real stuff
+  📍 Lima, Perú &nbsp;|&nbsp; 💡 20 años &nbsp;|&nbsp; 💼 Junior Full Stack Developer
+</p>
+
+<p align="center">
+  <em>"I don't just write code — I engineer solutions that actually work."</em>
 </p>
 
 ---
@@ -22,6 +28,14 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaredDevx&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -30,6 +44,8 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
 
@@ -43,7 +59,15 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -54,12 +78,16 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 
 **Stack:** `Python` · `HTML` · `CSS` · `JavaScript` · `SQL Server`
 
+[![Repo](https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaredDevx/colegio_app)
+
 ---
 
 ### 📱 CRM — Client Relationship Manager (Mobile App)
 > A fully functional Android CRM app developed to manage client data, interactions, and business workflows efficiently. Designed for actual business use.
 
 **Stack:** `Java` · `Android`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaredDevx/CRM-Android)
 
 ---
 
@@ -68,6 +96,10 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaredDevx&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaredDevx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JaredDevx&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
