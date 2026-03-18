@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Lima, Perú &nbsp;|&nbsp; 💡 20 años &nbsp;|&nbsp; 💼 Junior Full Stack Developer
+  📍 Lima, Perú &nbsp;|&nbsp; 💡 22 años &nbsp;|&nbsp; 💼 Junior Full Stack Developer
 </p>
 
 <p align="center">
