@@ -28,14 +28,6 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaredDevx&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
