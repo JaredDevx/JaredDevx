@@ -24,7 +24,7 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 - 🌱 Deepening my skills in **.NET MAUI**, **TypeScript**, and **system architecture**
 - 🤝 Open to collaborating on innovative projects and startups
 - 💬 Ask me about **Web Development, CRMs, or anything Full Stack**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jose-joaquin-trujillo-diaz)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jareddev)
 
 ---
 
