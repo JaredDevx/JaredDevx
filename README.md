@@ -63,26 +63,6 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 
 ---
 
-## 🚀 Featured Projects
-
-### School Management System — Web Platform
-> A complete web solution built to digitize and streamline the administrative and academic processes of a school. Built with real users in mind — not just for practice.
-
-**Stack:** `Python` · `HTML` · `CSS` · `JavaScript` · `SQL Server`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaredDevx/colegio_app)
-
----
-
-### CRM — Client Relationship Manager (Mobile App)
-> A fully functional Android CRM app developed to manage client data, interactions, and business workflows efficiently. Designed for actual business use.
-
-**Stack:** `Java` · `Android`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaredDevx/CRM-Android)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
