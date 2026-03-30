@@ -26,7 +26,7 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
 - 💬 Ask me about **Web Development, CRMs, or anything Full Stack**
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jareddev)
 
----
+----
 
 ## 🛠️ Tech Stack
 
