@@ -74,7 +74,7 @@ I'm a **Junior Full Stack Developer** passionate about turning complex problems 
   <img src="https://streak-stats.demolab.com?user=JaredDevx&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
----
+----
 
 ## 🤝 Let's Connect
 
